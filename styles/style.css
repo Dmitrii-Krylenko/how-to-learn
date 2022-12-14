@@ -94,35 +94,37 @@
   text-decoration: none;
   color: #2f80ed;
 }
-.description{
+.two-colums{
   margin: 100px auto 100px auto;
   display: flex;
   width: 80%;
   justify-content: space-between;
 
 }
-.brief{
+.two-colums__brief{
   width: 175px;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 0px; 
 }
-.main-text{
+.two-colums__main-text{
   width: 80%;
   min-width: 784px;
   font-size: 24px;
   line-height: 34px;
   flex-direction: column;
+  display: flex;
+  gap: 30px;
 }
-.span-accent{
-  margin-top: 30px;
-  margin-bottom: 30px;
+.two-colums__span-accent{
+  font-size: 24px;
+  line-height: 34px;
   font-weight: 600;
 }
-.paragraph{
+.two-colums__paragraph{
   margin: 0px;
   font-weight: normal;
 }
