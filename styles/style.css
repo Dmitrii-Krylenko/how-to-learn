@@ -175,7 +175,7 @@
 .table__text{
   font-size: 18px;
   line-height: 1.2;
-  font-weight: normal; 
+  font-weight: normal;
   margin-top: 20px;
   margin-bottom: 0px;
 }
@@ -187,7 +187,6 @@
   background-repeat: no-repeat;
   background-position: left 0px bottom 0px ;
   position: relative;
-  
 }
 .feyman__title{
   font-size: 120px;
@@ -197,7 +196,6 @@
   padding-top: 100px;
   width: 648px;
   z-index: 2;
-  
 }
 .feyman__subtitle{
   font-size: 36px;
@@ -273,7 +271,6 @@
   width: 200px;
   margin-top: 80px; 
   z-index: 1;
-  
 }
 .table__heading_theme_dark{
   font-size: 24px;
