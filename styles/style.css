@@ -284,7 +284,6 @@
 
 .footer__column_content_copyright {
   flex-basis: 711px;
-  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -313,6 +312,8 @@
   margin-bottom: 16px;
   display: flex;
   flex-direction: column;
+  list-style: none;
+  padding: 0;
 }
 
 .footer__column-link {
