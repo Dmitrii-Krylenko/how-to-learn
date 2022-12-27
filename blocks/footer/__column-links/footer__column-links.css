@@ -6,8 +6,3 @@
   list-style: none;
   padding: 0;
 }
-
-.footer__column-links:hover {
-  transition: 0.5s;
-  opacity: 0.5;
-}
